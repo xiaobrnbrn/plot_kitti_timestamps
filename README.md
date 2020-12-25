@@ -1,0 +1,2 @@
+# plot_kitti_timestamps
+用MATLAB绘制KITTI数据集中的时间戳序列，用来检查和修正IMU时间戳的断续和跳变问题
